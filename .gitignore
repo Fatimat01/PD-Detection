@@ -1,0 +1,16 @@
+## ignore all .txt files
+*.txt
+#ignore all .pdf files
+*.pdf
+# ignore data directory
+proccessed-data/*
+pads-dataset/
+final/
+# ignore all rtf files
+*.rtf
+# ignore all .doc files
+*.docx
+# ignore all csv files
+notebooks/*.csv
+*.csv
+*.zip
